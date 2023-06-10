@@ -44,6 +44,8 @@ the line that sapreates things such as this one below
 
 [Databases and SQL](databases-and-SQL.md)
 
+[The Command Line](The-Command-Line.md)
+
 ## Code 102 - Intro to Software Development
 
 ## Code 201 - Foundations of Software Development
