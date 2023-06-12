@@ -42,6 +42,8 @@ you can add a code block to make the page more decreptive.
 the line that sapreates things such as this one below
 <hr>
 
+[Read for class 1](Read-01.md)
+
 [Databases and SQL](databases-and-SQL.md)
 
 [The Command Line](The-Command-Line.md)
