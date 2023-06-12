@@ -46,6 +46,7 @@ the line that sapreates things such as this one below
 
 [The Command Line](The-Command-Line.md)
 
+[The Growth Mindset](The Growth Mindset.md)
 ## Code 102 - Intro to Software Development
 
 ## Code 201 - Foundations of Software Development
