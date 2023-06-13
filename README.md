@@ -43,7 +43,9 @@ the line that sapreates things such as this one below
 <hr>
 
 [Read for class 1](Read-01.md)
+
 [Read for class 2](Read-02.md)
+
 [Databases and SQL](databases-and-SQL.md)
 
 [The Command Line](The-Command-Line.md)
