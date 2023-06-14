@@ -46,6 +46,8 @@ the line that sapreates things such as this one below
 
 [Read for class 2](Read-02.md)
 
+[Data Structure](DataStructuresAndAlgorithms.md)
+
 [Databases and SQL](databases-and-SQL.md)
 
 [The Command Line](The-Command-Line.md)
