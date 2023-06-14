@@ -7,9 +7,12 @@ after reading and watching the videos provided for this assaignment  I leart tha
 
 ## How can we ensure that we’ll avoid an infinite recursive call stack?
 by using condition that will happen eventialy as an example :
+```c#
 for (int i=0;i<5;i++)
 { Console.WriteLine("a");
 }
+```
+
 this code will recure until  the i is bigger than 5 the coundition will reach it eventaly becase there is i++ which will make the condition reachable.
 
 <hr>
