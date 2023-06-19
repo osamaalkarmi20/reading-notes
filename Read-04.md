@@ -14,3 +14,6 @@ Understanding the stack and the heap can help optimize memory usage in previous 
 ## Compare “Garbage Collection” in C# with the lifecycle of normal household items.
 
 Garbage collection in C# is like having a cleaning service for your house. It automatically identifies and collects unused objects in your program's memory, freeing up space for new objects. Just as you don't need to worry about throwing away old, unwanted items in your house, garbage collection handles the memory management for you in C# without manual intervention.
+
+## Things I want to know more about...
+the idea of the resutdy the “Garbage Collection" as it is a big topic to learn about.
