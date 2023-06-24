@@ -50,6 +50,9 @@ the line that sapreates things such as this one below
 
 [Read for class 4](Read-04.md)
 
+[Read for class 6](Read-06.md)
+
+
 [Reading Engineering](EngineeringReadings.md)
 
 [Data Structure](DataStructuresAndAlgorithms.md)
