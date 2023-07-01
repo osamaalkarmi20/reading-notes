@@ -52,6 +52,7 @@ the line that sapreates things such as this one below
 
 [Read for class 6](Read-06.md)
 
+[Read for class 7](Read-07.md)
 
 [Reading Engineering](EngineeringReadings.md)
 
