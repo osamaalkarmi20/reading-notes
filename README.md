@@ -58,6 +58,8 @@ the line that sapreates things such as this one below
 
 [Read for class 9](Read-09.md)
 
+[Stacks & Queues](Stacks-&-Queues.md)
+
 [Reading Engineering](EngineeringReadings.md)
 
 [Data Structure](DataStructuresAndAlgorithms.md)
