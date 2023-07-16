@@ -22,3 +22,6 @@ The view component is responsible for rendering the user interface and displayin
 
 Overall, ASP.NET MVC with EF provides a powerful and structured approach to web development, combining the benefits of the MVC pattern for separation of concerns and the convenience of EF for working with databases. It enables developers to build robust, scalable, and data-driven applications with ease.
 
+## Things I want to know more about:
+that the tutorial was a bit hard to follow and understand and i hope in the lecture i will understand.
+
