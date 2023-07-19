@@ -65,6 +65,9 @@ the line that sapreates things such as this one below
 
 [Read for class 11](Read-11.md)
 
+
+[Read for class 12](Read-12.md)
+
 [Reading Engineering](EngineeringReadings.md)
 
 [Data Structure](DataStructuresAndAlgorithms.md)
