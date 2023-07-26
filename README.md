@@ -74,6 +74,9 @@ the line that sapreates things such as this one below
 
 [Databases and SQL](databases-and-SQL.md)
 
+[Trees](Tree.md)
+
+
 [The Command Line](The-Command-Line.md)
 
 [The Growth Mindset](The-Growth-Mindset.md)
