@@ -47,4 +47,3 @@ To ensure effective usage of DTOs in C#, consider the following guidelines:
 
 DTOs are a crucial aspect of modern C# software development, enabling the smooth transfer of data between different layers and components of an application. By following the guidelines provided in this README, you can effectively use DTOs to enhance the design, security, and performance of your C# projects.
 
-If you have any questions or suggestions concerning DTOs or this repository, please feel free to raise an issue or contribute to the project. Happy coding!
