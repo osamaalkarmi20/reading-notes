@@ -87,6 +87,8 @@ the line that sapreates things such as this one below
 
 [Read for class 26](Read-26.md)
 
+[Read for class 27](Read-27.md)
+
 [The Command Line](The-Command-Line.md)
 
 [The Growth Mindset](The-Growth-Mindset.md)
