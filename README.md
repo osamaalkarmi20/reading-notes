@@ -91,6 +91,8 @@ the line that sapreates things such as this one below
 
 [Read for class 28](Read-28.md)
 
+[Read for class 29](Read-29.md)
+
 [The Command Line](The-Command-Line.md)
 
 [The Growth Mindset](The-Growth-Mindset.md)
