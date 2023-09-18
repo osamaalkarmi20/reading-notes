@@ -97,6 +97,7 @@ the line that sapreates things such as this one below
 
 [Read for class 31](Read-31.md)
 
+[Read for class 31](Read-32.md)
 
 [The Command Line](The-Command-Line.md)
 
