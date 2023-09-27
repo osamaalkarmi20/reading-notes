@@ -103,6 +103,8 @@ the line that sapreates things such as this one below
 
 [Read for class 34](Read-34.md)
 
+[Read for class 34](Read-35.md)
+
 [The Command Line](The-Command-Line.md)
 
 [The Growth Mindset](The-Growth-Mindset.md)
